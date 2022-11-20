@@ -15,8 +15,7 @@ N/A
 
 ## Usage
 
-You can read over the notes in each component of this Prework Study Guide before using it. Press Command+Option+I (macOS) or Control+Shift+I (Windows) to launch the Chrome DevTools and get recommendations on what to read first (Windows). Either below or to the side of the webpage in the browser, a console panel should appear. You can choose which topic to study first from a list of the topics we learned during the prework. 
-
+You can read over the notes in each component of this Prework Study Guide before using it. Press Command+Option+I (macOS) or Control+Shift+I (Windows) to launch the Chrome DevTools and get recommendations on what to read first (Windows). Either below or to the side of the webpage in the browser, a console panel should appear. You can choose which topic to study first from a list of the topics we learned during the prework.
 
 
 ## Credits
