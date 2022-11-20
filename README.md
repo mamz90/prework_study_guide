@@ -20,7 +20,7 @@ You can read over the notes in each component of this Prework Study Guide before
 
 ## Credits
 
-N/A
+N/A 
 
 ## License
 
